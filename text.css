@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.body{
+	width: 600px;
+	height: 550px;
+	margin: 0 auto;
+	position: relative;
+	top:50px;
+}
+.body1{
+	width: 600px;
+	height: 45px;
+	position: absolute;
+	top: 10px;
+	background-color: #87BBFE;
+	margin:0 auto;
+}
+.body1 label{
+	color: #F92672;
+	margin-left: 15px;
+	position: relative;
+	top:5px;
+}
+a{  
+	display: black;
+	text-decoration: none;
+	color: inherit;
+}
+.body1 a{
+	margin-left: 25px;
+	color: black;
+	font-family: "幼圆";
+	font-size: 18px;
+	position: relative;
+	top: 5px;
+	cursor: pointer; 
+}
+.body1 a:hover{
+	color: #F92672;
+}
+input{
+	width: 30px;
+	height: 20px;
+	margin-left: 20px;
+	position: relative;
+	top: 5px;
+}
+.body1 button{
+	height: 30px;
+	position: relative;
+	top: 5px;left: 25px;
+}
+.body2{
+	width: 450px;
+	height: 450px;
+	position: relative;
+	top: 80px;
+	margin: 0 auto;
+	border: 2px solid #87BBFE;
+}
